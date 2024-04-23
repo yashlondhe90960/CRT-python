@@ -30,11 +30,11 @@
 #     print(" " * (5 - i) + 2*str(i)*i)
     
 
-for i in range(1, 5+1):  
+# for i in range(1, 5+1):  
     
-        for j in range(1, i + 1):  
-            print(j, end=" ")  
-        print("\n")
+#         for j in range(1, i + 1):  
+#             print(j, end=" ")  
+#         print("\n")
     
 # for i in range(1,5):
     
@@ -51,3 +51,12 @@ for i in range(1, 5+1):
 #         print(" " * (rows - i) + str(i) * i)
 
 # print_pyramid(5)
+
+def FUN():
+    list = [1,2,3,4]
+    printing(list)    
+
+def printing():
+    print(list)
+    
+    

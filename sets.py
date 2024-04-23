@@ -17,9 +17,9 @@ else:
     print("4 is not in the set")
 
 # # Get the length of the set
-# set_length = len(my_set)
-# print("Length of the set:", set_length)
+set_length = len(my_set)
+print("Length of the set:", set_length)
 
 # # Iterate over the set
-# for element in my_set:
-#     print(element)
+for element in my_set:
+    print(element)
